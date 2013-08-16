@@ -1,0 +1,14 @@
+Host server1
+  Hostname s1.clo.ud
+  IdentityFile id1.pem
+  User root1
+
+Host server2
+  Hostname s2.clo.ud
+  IdentityFile id2.pem
+  User root2
+
+Host server3
+  Hostname s3.clo.ud
+  IdentityFile id3.pem
+  User root3
